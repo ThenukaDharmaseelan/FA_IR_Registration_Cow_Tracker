@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2602.04877"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b" alt="arXiv"></a>
   <a href="docs/cowtracker.pdf"><img src="https://img.shields.io/badge/📄-Paper-green" alt="Paper"></a>
   <a href="https://cowtracker.github.io/"><img src="https://img.shields.io/badge/🌐-Project_Page-orange" alt="Project Page"></a>
   <a href="https://github.com/facebookresearch/cowtracker"><img src="https://img.shields.io/badge/GitHub-Repo-blue" alt="GitHub"></a>
@@ -139,6 +139,12 @@ model = CoWTrackerWindowed.from_checkpoint(
 ## 📖 Citation
 
 ```bibtex
+@article{lai2026a,
+  title   = {CoWTracker: Tracking by Warping instead of Correlation},
+  author  = {Lai, Zihang and Insafutdinov, Eldar and Sucar, Edgar and Vedaldi, Andrea},
+  journal = {arXiv preprint arXiv:2602.04877},
+  year    = {2026},
+}}
 ```
 
 ## 🙏 Acknowledgements
